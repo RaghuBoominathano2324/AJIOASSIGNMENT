@@ -1,0 +1,70 @@
+
+
+#MAN{
+    background-color: rgb(254, 255, 240);
+    width: 80%;
+    height: 50%;
+    opacity: 0.5;
+    display: none;
+    padding-left: 20%;
+    font-weight: bolder;
+  
+
+}
+#MAN button{
+ border: none;
+ background-color: aliceblue;
+}
+#MAN a:hover{
+    transform: scale(1.2);
+    text-decoration: underline;
+    color: springgreen;
+    opacity: 0.4;
+}
+
+
+
+#WOMAN{
+    background-color: rgb(48, 94, 30);
+    width: 80%;
+    height: 50%;
+    opacity: 0.5;
+    display: none;
+    padding-left: 20%;
+    font-weight: bolder;
+  
+
+}
+#WOMAN button{
+ border: none;
+ background-color: aliceblue;
+}
+#WOMAN a:hover{
+    transform: scale(1.2);
+    text-decoration: underline;
+    color: rgb(60, 0, 255);
+    opacity: 0.4;
+}
+
+
+#KIDS{
+    background-color: rgb(48, 94, 30);
+    width: 80%;
+    height: 50%;
+    opacity: 0.5;
+    display: none;
+    padding-left: 20%;
+    font-weight: bolder;
+  
+
+}
+#KIDS button{
+ border: none;
+ background-color: rgb(183, 196, 11);
+}
+#KIDS a:hover{
+    transform: scale(1.2);
+    text-decoration: underline;
+    color: rgb(201, 15, 83);
+    opacity: 0.4;
+}

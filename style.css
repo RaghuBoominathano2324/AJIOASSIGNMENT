@@ -1,0 +1,172 @@
+*{
+margin: 0;
+padding: 0;
+font-size: 14px;
+}
+
+#nav1{
+  padding: 0;
+  margin: 0;
+}
+
+#Ajiotext{
+    color: rgba(5, 12, 60, 0.835);
+    font-size: 80px;
+}
+
+
+#trendsButtons button{
+  border: none;
+}
+
+
+
+
+
+
+
+
+
+#trendsButtons a{
+  color: aliceblue;
+}
+
+#TH ,a{
+    color: black;
+    text-decoration: none;
+}
+#upperpart a:hover{
+    color: rgb(13, 5, 255);
+    text-decoration: underline;
+    
+}
+#search:hover{
+  color: blue;
+    background-color: whitesmoke;
+   
+}
+#search:hover{
+  color: blue;
+    background-color: whitesmoke;
+   
+}
+
+#heart:hover{
+    color: red;
+      background-color: whitesmoke;
+      cursor: pointer;
+
+     
+  }
+  #vallet:hover{
+    color: brown;
+      background-color: whitesmoke;
+      cursor: pointer;
+
+     
+  }
+
+  #trends1{
+padding-top: 0%;
+
+  }
+  #staticImage,#carouselExampleIndicators,.card:hover{
+    transform: scale(1.03);
+    cursor: pointer;
+
+  }
+
+
+  #footerown{
+    color:aliceblue
+  }
+
+
+
+  #TrendSetterBrands{
+
+    background-image: url(./TrendSetterBrands.png);
+    width: 100%;
+
+ 
+
+  }
+
+
+
+
+
+ 
+
+  #DarkUniverse{
+
+    background-image: url(./DarkUniverse.png);
+    width: 100%;
+
+ 
+
+  }
+
+#colourfullbackground{
+
+  background-image: url(./colourfulbackground.png);
+  width: 100%;
+
+
+
+}
+
+#darkforest{
+
+  background-image: url(./darkforest.png);
+  width: 100%;
+
+
+
+}
+
+
+
+
+  #TrendSetterBrands:hover{
+    cursor: pointer;
+    /* transform: scale(0.9); */
+  }
+
+
+  .carousel-inner img{
+    border: solid 1px black;
+  }
+
+#footerown{
+  background-color: hsla(198, 68%, 14%, 0.888);
+  /* opacity: 0.7; */
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
+#ful1{
+  color: aliceblue;
+}
+
+#ful1 a:hover{
+  text-decoration: underline;
+  transform: scale(1.03);
+  color: blueviolet;
+  background-color: white;
+  
+}
+#footerown{
+  width: 100%;
+}
+
+#ddn1{
+  display: none;
+}
+#manD{
+  display: none;
+}
+
+#man:hover + #manD{
+  background-color: aquamarine;
+  display: flex;
+}

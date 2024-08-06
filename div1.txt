@@ -1,0 +1,36 @@
+
+    
+          
+               
+
+
+
+
+                      <div id="cardGroup4" class="card-group d-flex justify-content-center">
+                        <div class="card">
+                          <img src="Card_1_13.png" class="card-img-top fit-content" alt="i1">
+                         
+                        
+                        </div>
+                      
+                        <div class="card">
+                          <img src="Card_1_14.png" class="card-img-top fit-content" alt="i1">
+                         
+                      
+                        </div>
+                        <div class="card">
+                          <img src="Card_1_3.png" class="card-img-top fit-content" alt="i1">
+                         
+                            </div>
+                  
+                  
+                            <div class="card">
+                              <img src="Card_1_5.png" class="card-img-top fit-content" alt="i1">
+                        
+                            </div>
+    </div>
+
+
+
+
+

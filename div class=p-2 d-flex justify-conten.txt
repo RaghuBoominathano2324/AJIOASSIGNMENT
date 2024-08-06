@@ -1,0 +1,135 @@
+ <div class="p-2 d-flex justify-content-center" id="carosol2">
+
+    <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-bs-ride="carousel">
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+      </div>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="car2i1.png" class="d-block w-100" alt="Slide 1">
+        </div>
+        <div class="carousel-item">
+          <img src="car2i2.png" class="d-block w-100" alt="Slide 2">
+        </div>
+        <div class="carousel-item">
+          <img src="car2i3.png" class="d-block w-100" alt="Slide 3">
+        </div>
+        <div class="carousel-item">
+          <img src="car2i4.png" class="d-block w-100" alt="Slide 4">
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+    <div class="p-1 d-block justify-content-center bg-secondary
+    p-2  font-weight-bold" id="TrendSetterBrands">
+      <a href=""><h1 style="color: rgba(116, 70, 70, 0.773);opacity: 0.8;font-style: oblique;">Trend Setter Brands</h1></a>
+      <br>
+      <div id="mainCard1" class="p-2 d-block justify-content-center">
+        <div id="cardGroup1" class="card-group d-flex justify-content-center">
+          <div class="card">
+            <img src="Card_1_1.png" class="card-img-top fit-content" alt="i1">
+           
+          
+          </div>
+        
+          <div class="card">
+            <img src="Card_1_2.png" class="card-img-top fit-content" alt="i1">
+           
+        
+          </div>
+          <div class="card">
+            <img src="Card_1_3.png" class="card-img-top fit-content" alt="i1">
+           
+              </div>
+    
+    
+              <div class="card">
+                <img src="Card_1_5.png" class="card-img-top fit-content" alt="i1">
+          
+              </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+<br>
+<div id="cardGroup2" class="card-group d-flex justify-content-center">
+  <div class="card">
+    <img src="card_1_4_1.png" class="card-img-top fit-content" alt="i1">
+   
+  
+  </div>
+
+  <div class="card">
+    <img src="Card_1_6.png" class="card-img-top fit-content" alt="i1">
+   
+
+  </div>
+  <div class="card">
+    <img src="Card_1_7.png" class="card-img-top fit-content" alt="i1">
+   
+      </div>
+
+
+      <div class="card">
+        <img src="Card_1_8.png" class="card-img-top fit-content" alt="i1">
+  
+      </div>
+
+
+
+
+
+    </div>
+    <br>
+    <div id="cardGroup3" class="card-group d-flex justify-content-center">
+      <div class="card">
+        <img src="Card_1_9.png" class="card-img-top fit-content" alt="i1">
+       
+      
+      </div>
+    
+      <div class="card">
+        <img src="Card_1_10.png" class="card-img-top fit-content" alt="i1">
+       
+    
+      </div>
+      <div class="card">
+        <img src="Card_1_11.png" class="card-img-top fit-content" alt="i1">
+       
+          </div>
+
+
+          <div class="card">
+            <img src="Card_1_12.png" class="card-img-top fit-content" alt="i1">
+      
+          </div>
+
+
+
+
+    </div>
+</div>
+</div>

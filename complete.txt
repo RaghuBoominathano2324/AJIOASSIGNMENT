@@ -1,0 +1,127 @@
+<section id="midSection" class="d-block justify-content-center">
+        
+      <div class="d-block flex-column justify-content-center">
+        <div class="p-1 d-block flex-column justify-content-center" ><a href="#"><img src="staticImage1.png" class="img-fluid" alt="static image" id="staticImage"></a>
+        </div>
+        <div class="p-1 d-block flex-column justify-content-center flex-column justify-content-center"><a href="#"><img src="poweredBy.png" class="img-fluid " alt="static image" id="staticImage"></a>
+        </div>
+       </div>
+     
+
+
+<div class="d-block flex-column justify-content-center">
+      <a><h1 class="h2 bg-light d-flex justify-content-center">New Season,New trends</h1></a>
+</div>
+      <div class="p-2 d-flex justify-content-center font-bold d-block flex-column justify-content-center" id="carsol1">
+        <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-bs-ride="carousel">
+          <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+          </div>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+             <a href=""> <img src="carsol_a_1.png" class="d-block w-100" alt="Slide 1"></a>
+            </div>
+            <div class="carousel-item">
+              <a href="">   <img src="carsol_a_2.png" class="d-block w-100" alt="Slide 2"></a>
+            </div>
+            <div class="carousel-item">
+           <a href="">   <img src="carsol_a_3.png" class="d-block w-100" alt="Slide 3"></a>
+            </div>
+            <div class="carousel-item">
+              <a href="">  <img src="carsol_a_4.png" class="d-block w-100" alt="Slide 4"></a>
+            </div>
+          </div>
+     
+        </div>
+      </div>
+      <div class="p-2 d-flex justify-content-center">
+   <h1 class="h2 bg-light  justify-content-center font-italic">Top trends to Try</h1>
+   </div>
+      
+   <div class="p-2 d-flex justify-content-center d-block flex-column justify-content-center" id="carosol2">
+
+    <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-bs-ride="carousel">
+      <div class="carousel-indicators">
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4"></button>
+      </div>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+         <a href="#"> <img src="car2i1.png" class="d-block w-100" alt="Slide 1"></a>
+        </div>
+        <div class="carousel-item">
+        <a href="#">  <img src="car2i2.png" class="d-block w-100" alt="Slide 2"></a>
+        </div>
+        <div class="carousel-item">
+       <a href="#">   <img src="car2i3.png" class="d-block w-100" alt="Slide 3"></a>
+        </div>
+        <div class="carousel-item">
+         <a href="#"> <img src="car2i4.png" class="d-block w-100" alt="Slide 4"></a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+<div >
+
+            
+
+
+
+
+
+
+
+
+
+
+     
+        
+
+
+
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
